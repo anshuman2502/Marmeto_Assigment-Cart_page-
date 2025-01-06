@@ -1,5 +1,5 @@
 # Marmeto_Assigment-Cart_page-
-# README for Marmeto Responsive Cart Landing Page
+##Marmeto Responsive Cart Landing Page
 
 ## Overview
 This project is a responsive cart landing page assignment created for Marmeto. The implementation utilizes HTML, CSS, and JavaScript for DOM manipulation, specifically tailored for a Shopify interface. The design focuses on providing an intuitive user experience while ensuring that the cart functionality is seamless and efficient.
