@@ -31,12 +31,4 @@ The Shopify interface allows for easy integration and customization of online st
 ## Conclusion
 This responsive cart landing page showcases a blend of modern web technologies tailored for Shopify, providing an engaging shopping experience. Feel free to explore and modify the code as needed for further learning and enhancement.
 
-Citations:
-[1] https://community.shopify.com/c/technical-q-a/why-is-my-cart-page-slow-and-unresponsive/td-p/1133472
-[2] https://community.shopify.com/c/shopify-discussions/i-haven-t-seen-any-update-in-my-main-cart-items-liquid-file/m-p/2165096
-[3] https://community.shopify.com/c/shopify-design/how-can-i-adjust-the-layout-of-my-cart-page-for-closer-item/m-p/2437718
-[4] https://community.adobe.com/t5/dreamweaver-discussions/simple-cart-page/m-p/14175850
-[5] https://community.shopify.com/c/shopify-design/why-is-my-cart-page-not-responsive-on-lacouettefrancaise-fr/m-p/2028886
-[6] https://github.com/Srishtysengar/Marmeto-Assignment
-[7] https://community.shopify.com/c/shopify-design/home-page-quick-cart/m-p/2840840
-[8] https://community.shopify.com/c/shopify-design/cart-page/m-p/2845581
+
