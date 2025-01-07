@@ -58,7 +58,7 @@ nav {
   color: #000000;
 }
 
-/* Background section with blur effect */
+/* Background blur */
 section {
   background-image: url("./img_assets/background.jpeg");
   background-size: cover;
@@ -120,7 +120,7 @@ section > div:nth-child(2) h1 {
   font-size: 48px;
 }
 
-/* Cart layout */
+/* Cart content */
 .cart {
   display: grid;
   grid-template-columns: 2fr 1fr;
@@ -245,7 +245,7 @@ h3 {
 }
 
 
-/* Responsive styles */
+/* Responsive  */
 @media (max-width: 768px) {
   .logo-img {
     width: 30px;
