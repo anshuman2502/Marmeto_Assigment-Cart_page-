@@ -146,6 +146,11 @@ td {
 .right-side {
   background-color: #f9f1e7;
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
 }
 
 .table-img {
@@ -157,14 +162,6 @@ td {
 .delete {
   width: 30px;
   cursor: pointer;
-}
-
-.right-side {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  justify-content: center;
-  align-items: center;
 }
 
 .sub-total-div,
