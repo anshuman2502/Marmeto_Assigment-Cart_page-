@@ -125,7 +125,6 @@ table {
   border-collapse: collapse;
 }
 
-th,
 td {
   padding: 8px;
   text-align: center;
@@ -164,7 +163,6 @@ td {
   cursor: pointer;
 }
 
-.sub-total-div,
 .total-div {
   display: flex;
   justify-content: space-between;
@@ -173,9 +171,7 @@ td {
 .qty-div {
   display: flex;
 }
-.sub-total,
-.p-qty,
-.p-price,
+
 .p-name {
   display: none;
 }
@@ -209,14 +205,12 @@ footer {
   font-size: 20px;
   color: #898989;
 }
-.product,
+
 .pr-price {
   color: #9f9f9f;
 }
 
-.right-side h1,
-.sub-total-div p,
-.total-div p,
+
 h3 {
   font-family: Poppins;
 }
@@ -278,7 +272,6 @@ h3 {
     padding: 10px;
   }
 
-  .sub-total-div p,
   .total-div p {
     font-size: 14px;
   }
@@ -351,9 +344,7 @@ h3 {
     justify-content: center;
     gap: 10px;
   }
-  .sub-total,
-  .prod-qty,
-  .prod-price,
+
   .prod-name {
     display: contents;
   }
